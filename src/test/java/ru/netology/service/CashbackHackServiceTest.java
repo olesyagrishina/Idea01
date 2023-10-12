@@ -1,9 +1,6 @@
 package ru.netology.service;
-import org.testng.Assert;
-import org.testng.annotations.Test;
-import ru.netology.service.CashbackHackService;
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
 public class CashbackHackServiceTest {
     @Test
